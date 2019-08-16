@@ -1,2 +1,2 @@
 # ftservice
-full text service
+- full text service
